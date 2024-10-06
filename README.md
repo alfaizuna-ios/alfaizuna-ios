@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alfaizuna-ios
-- 👀 I’m interested in apple products
+- 👀 I’m interested in iOs Development
 - 🌱 I’m currently learning swift
 - 💞️ I’m looking to collaborate on works
 
